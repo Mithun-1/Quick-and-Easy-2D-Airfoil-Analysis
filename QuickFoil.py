@@ -74,7 +74,8 @@ def run_XFoil(airfoil, re, mach, alphas):
         airfoil=airfoil.repanel(n_points_per_side=200),
         Re = re,
         mach=mach,
-        max_iter=1000
+        max_iter=1000,
+        timeout=60,
         )
 
         return xf.alpha(alphas)
