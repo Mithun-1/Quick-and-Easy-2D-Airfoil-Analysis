@@ -1,4 +1,4 @@
-# Quick-and-Easy-2D-Airfoil-Analysis
+# Simple XFoil (SimpFoil) Project
  Welcome to simple XFoil, otherwise known as SimpFoil! (working title or is it?)
 
  This is an extremely early version of SimpFoil that currently only runs through terminal commands. There are a lot of bugs I definitely left in and invalid inputs the user might type that need to be accounted for. A lot of code cleanup can already be done, but this version works if everything is inputted well. This is a personal project for me to (1) learn Python and (2) aid Rutgers AIAA's Design, Build, Fly team, RU Airborne, in the design of the competition aircraft. The end goal of this project is to make it user-friendly and replace the terminal command approach with a GUI. There is a picture of my vision of the GUI in the repo available. 
